@@ -6,7 +6,19 @@ Visitors to the site may browse posts and comments without signing in.
 To create, edit, delete, or vote on posts and comments, users must sign-in using a Google account.
 
 ## Screenshots:
-| ![Home Page](screenshots/1_home.png) | ![Navbar - Visitors](screenshots/2_nav_visitor.png) | ![Navbar - Users](screenshots/2_nav_user.png) |
+| <img src="screenshots/1_home.png" alt="Home Page" width="200" height="100"> | <img src="screenshots/2_nav_visitor.png" alt="Navbar - Visitors" width="200" height="100"> | <img src="screenshots/2_nav_user.png" alt="Navbar - Users" width="200" height="100"> |
+|:---:|:---:|:---:|
+| Home Page | Navbar - Visitors | Navbar - Users |
+
+| <img src="screenshots/3_post_visitor.png" alt="Post - Visitors" width="200" height="100"> | <img src="screenshots/3_post_user.png" alt="Post - Users" width="200" height="100"> | <img src="screenshots/4_new_post.png" alt="New Post" width="200" height="100"> |
+|:---:|:---:|:---:|
+| Post - Visitors | Post - Users | New Post |
+
+| <img src="screenshots/5_my_posts.png" alt="My Posts" width="200" height="100"> | <img src="screenshots/6_all_users.png" alt="All Users" width="200" height="100"> | <img src="screenshots/7_search.png" alt="Search" width="200" height="100"> |
+|:---:|:---:|:---:|
+| My Posts | All Users | Search |
+
+<!-- | ![Home Page](screenshots/1_home.png) | ![Navbar - Visitors](screenshots/2_nav_visitor.png) | ![Navbar - Users](screenshots/2_nav_user.png) |
 |:---:|:---:|:---:|
 | Home Page | Navbar - Visitors | Navbar - Users |
 
@@ -16,7 +28,7 @@ To create, edit, delete, or vote on posts and comments, users must sign-in using
 
 | ![My Posts](screenshots/5_my_posts.png) | ![All Users](screenshots/6_all_users.png) | ![Search](screenshots/7_search.png) |
 |:---:|:---:|:---:|
-| My Posts | All Users | Search |
+| My Posts | All Users | Search | -->
 
 ## Technologies Used:
 * Node.js: the app is built using a Node.js server.
