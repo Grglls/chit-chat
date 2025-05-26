@@ -6,15 +6,15 @@ Visitors to the site may browse posts and comments without signing in.
 To create, edit, delete, or vote on posts and comments, users must sign-in using a Google account.
 
 ## Screenshots:
-| <img src="screenshots/1_home.png" alt="Home Page" width="500"> | <img src="screenshots/2_nav_visitor.png" alt="Navbar - Visitors" width="500"> | <img src="screenshots/2_nav_user.png" alt="Navbar - Users" width="500"> |
+| <img src="screenshots/1_home.png" alt="Home Page" width="20%"> | <img src="screenshots/2_nav_visitor.png" alt="Navbar - Visitors" width="20%"> | <img src="screenshots/2_nav_user.png" alt="Navbar - Users" width="20%"> |
 |:---:|:---:|:---:|
 | Home Page | Navbar - Visitors | Navbar - Users |
 
-| <img src="screenshots/3_post_visitor.png" alt="Post - Visitors" width="500"> | <img src="screenshots/3_post_user.png" alt="Post - Users" width="500"> | <img src="screenshots/4_new_post.png" alt="New Post" width="500"> |
+| <img src="screenshots/3_post_visitor.png" alt="Post - Visitors" width="20%"> | <img src="screenshots/3_post_user.png" alt="Post - Users" width="20%"> | <img src="screenshots/4_new_post.png" alt="New Post" width="20%"> |
 |:---:|:---:|:---:|
 | Post - Visitors | Post - Users | New Post |
 
-| <img src="screenshots/5_my_posts.png" alt="My Posts" width="500"> | <img src="screenshots/6_all_users.png" alt="All Users" width="500"> | <img src="screenshots/7_search.png" alt="Search" width="500"> |
+| <img src="screenshots/5_my_posts.png" alt="My Posts" width="20%"> | <img src="screenshots/6_all_users.png" alt="All Users" width="20%"> | <img src="screenshots/7_search.png" alt="Search" width="20%"> |
 |:---:|:---:|:---:|
 | My Posts | All Users | Search |
 
