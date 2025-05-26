@@ -8,7 +8,7 @@ To create, edit, delete, or vote on posts and comments, users must sign-in using
 ## Screenshots:
 | <img src="screenshots/1_home.png" alt="Home Page" width="500"> | <img src="screenshots/2_nav_visitor.png" alt="Navbar - Visitors" width="500"> | <img src="screenshots/2_nav_user.png" alt="Navbar - Users" width="500"> |
 |:---:|:---:|:---:|
-| `Home Page        ` | `Navbar - Visitors` | `Navbar - Users   ` |
+| Home Page         | Navbar - Visitors | Navbar - Users    |
 
 | <img src="screenshots/3_post_visitor.png" alt="Post - Visitors" width="500"> | <img src="screenshots/3_post_user.png" alt="Post - Users" width="500"> | <img src="screenshots/4_new_post.png" alt="New Post" width="500"> |
 |:---:|:---:|:---:|
