@@ -22,7 +22,7 @@ table th:nth-of-type(4) {
 </style> -->
 | <img src="screenshots/1_home.png" alt="Home Page"> | <img src="screenshots/2_nav_visitor.png" alt="Navbar - Visitors"> | <img src="screenshots/2_nav_user.png" alt="Navbar - Users"> |
 |:---:|:---:|:---:|
-| <span>Home Page</span> | <span>Navbar - Visitors</span> | <span>Navbar - Users</span> |
+| <span width=500px>Home Page</span> | <span width=500px>Navbar - Visitors</span> | <span width=500px>Navbar - Users</span> |
 <!-- | Home Page<img width=200/> | Navbar - Visitors<img width=200/> | Navbar - Users<img width=500/> | -->
 <!-- | test | test | test | -->
 <!-- | Home Page | Navbar - Visitors | Navbar - Users | -->
