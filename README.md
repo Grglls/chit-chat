@@ -6,7 +6,7 @@ Visitors to the site may browse posts and comments without signing in.
 To create, edit, delete, or vote on posts and comments, users must sign-in using a Google account.
 
 ## Screenshots:
-<style>
+<!-- <style>
 table th:first-of-type {
     width: 10%;
 }
@@ -19,10 +19,11 @@ table th:nth-of-type(3) {
 table th:nth-of-type(4) {
     width: 30%;
 }
-</style>
+</style> -->
 | <img src="screenshots/1_home.png" alt="Home Page"> | <img src="screenshots/2_nav_visitor.png" alt="Navbar - Visitors"> | <img src="screenshots/2_nav_user.png" alt="Navbar - Users"> |
 |:---:|:---:|:---:|
-| Home Page<img width=200/> | Navbar - Visitors<img width=200/> | Navbar - Users<img width=500/> |
+| <span>Home Page</span> | <span>Navbar - Visitors</span> | <span>Navbar - Users</span> |
+<!-- | Home Page<img width=200/> | Navbar - Visitors<img width=200/> | Navbar - Users<img width=500/> | -->
 <!-- | test | test | test | -->
 <!-- | Home Page | Navbar - Visitors | Navbar - Users | -->
 <!-- | Home Page&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Navbar - Visitors | Navbar - Users&nbsp;&nbsp;&nbsp; | -->
