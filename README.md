@@ -54,9 +54,12 @@ table th:nth-of-type(4) {
             <!-- <th>test 1</th>
             <th>test 2</th>
             <th>test 3</th> -->
-            <th>![My Posts](screenshots/5_my_posts.png)</th>
+            <!-- <th>![My Posts](screenshots/5_my_posts.png)</th>
             <th>![All Users](screenshots/6_all_users.png)</th>
-            <th>![Search](screenshots/7_search.png)3</th>
+            <th>![Search](screenshots/7_search.png)3</th> -->
+            <th><img src="screenshots/5_my_posts.png" alt="My Posts"></th>
+            <th><img src="screenshots/6_all_users.png" alt="All Users"></th>
+            <th><img src="screenshots/7_search.png" alt="Search"></th>
         </tr>
     </thead>
     <tbody>
