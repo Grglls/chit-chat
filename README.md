@@ -51,9 +51,12 @@ table th:nth-of-type(4) {
 <table style="width: 100%">
     <thead>
         <tr>
-            <th>test 1</th>
+            <!-- <th>test 1</th>
             <th>test 2</th>
-            <th>test 3</th>
+            <th>test 3</th> -->
+            <th>![My Posts](screenshots/5_my_posts.png)</th>
+            <th>![All Users](screenshots/6_all_users.png)</th>
+            <th>![Search](screenshots/7_search.png)3</th>
         </tr>
     </thead>
     <tbody>
@@ -76,6 +79,7 @@ table th:nth-of-type(4) {
 | ![My Posts](screenshots/5_my_posts.png) | ![All Users](screenshots/6_all_users.png) | ![Search](screenshots/7_search.png) |
 |:---:|:---:|:---:|
 | test 1 | test 1 | test 1 |
+<!-- | test 1 | test 1 | test 1 | -->
 
 ## Technologies Used:
 * Node.js: the app is built using a Node.js server.
