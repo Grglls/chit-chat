@@ -80,7 +80,7 @@ table th:nth-of-type(4) {
 
 | ![My Posts](screenshots/5_my_posts.png) | ![All Users](screenshots/5_my_posts.png) | ![Search](screenshots/5_my_posts.png) |
 |:---:|:---:|:---:|
-| `          My Posts          ` | `          All Users          ` | `          Search          ` |
+| `               My Posts               ` | `               All Users               ` | `               Search               ` |
 <!-- | `     My Posts     ` | `     All Users     ` | `     Search     ` | -->
 <!-- | ` My Posts` | `All Users` | `  Search ` | -->
 
