@@ -69,7 +69,7 @@ table th:nth-of-type(4) {
 |:---:|:---:|:---:|
 | test 1 | test 2 | test 3 |
 
-| ![test 1](screenshots/5_my_posts.png) | ![test 1](screenshots/6_all_users.png) | ![test 1](screenshots/7_search.png) |
+| ![test 1](screenshots/5_my_posts.png) | ![test 1](screenshots/5_my_posts.png) | ![test 1](screenshots/5_my_posts.png) |
 |:---:|:---:|:---:|
 | My Posts | All Users | Search | -->
 
