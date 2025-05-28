@@ -48,6 +48,23 @@ table th:nth-of-type(4) {
 |:---:|:---:|:---:|
 | My Posts | All Users | Search | -->
 
+<table>
+    <thead>
+        <tr>
+            <th>test 1</th>
+            <th>test 2</th>
+            <th>test 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>test 1</td>
+            <td>test 2</td>
+            <td>test 3</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Technologies Used:
 * Node.js: the app is built using a Node.js server.
 * Express: the server uses the Express framework.
