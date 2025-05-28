@@ -65,6 +65,10 @@ table th:nth-of-type(4) {
     </tbody>
 </table>
 
+| test 1 | test 2 | test 3 |
+|:---:|:---:|:---:|
+| test 1 | test 2 | test 3 |
+
 ## Technologies Used:
 * Node.js: the app is built using a Node.js server.
 * Express: the server uses the Express framework.
