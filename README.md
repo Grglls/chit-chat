@@ -48,7 +48,7 @@ table th:nth-of-type(4) {
 |:---:|:---:|:---:|
 | My Posts | All Users | Search | -->
 
-<table>
+<table style="width: 100%">
     <thead>
         <tr>
             <th>test 1</th>
