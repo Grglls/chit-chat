@@ -80,11 +80,12 @@ table th:nth-of-type(4) {
 
 | ![My Posts](screenshots/5_my_posts.png) | ![All Users](screenshots/5_my_posts.png) | ![Search](screenshots/5_my_posts.png) |
 |:---:|:---:|:---:|
-| ` My Posts` | `All Users` | `  Search ` |
+| `     My Posts     ` | `     All Users     ` | `     Search     ` |
+<!-- | ` My Posts` | `All Users` | `  Search ` | -->
 
 | ![My Posts](screenshots/5_my_posts.png) | ![All Users](screenshots/5_my_posts.png) | ![Search](screenshots/5_my_posts.png) |
 |:---:|:---:|:---:|
-| My Posts&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | All Users | Search |
+| My Posts&nbsp;&nbsp;&nbsp; | All Users | Search |
 
 | ![My Posts](screenshots/5_my_posts.png) | ![All Users](screenshots/6_all_users.png) | ![Search](screenshots/7_search.png) |
 |:---:|:---:|:---:|
